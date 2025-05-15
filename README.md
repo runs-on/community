@@ -1,2 +1,3 @@
-# community
-Community resources for RunsOn self-hosted runners
+# RunsOn / Community
+
+Community resources for [RunsOn self-hosted runners](https://runs-on.com).
